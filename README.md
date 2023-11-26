@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Angular-Signals
 Demonstrations of Angular's signals features.
 
+## API :
+We are utilizing "The Star Wars API" to retrieve and display a comprehensive list of vehicles (https://swapi.py4e.com/api/vehicles).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
